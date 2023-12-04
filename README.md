@@ -4,7 +4,7 @@ Mauricio_terto
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mauricio__terto?igshid=M2RkZGJiMzhjOQ==)
 
-![mauricioterto10 GitHub stats](https://github-readme-stats.vercel.app/api?username=ivyson855&show_icons=true&theme=radical)
+![mauricioterto10 GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioterto10&show_icons=true&theme=radical)
 
 ## Tecnologia que eu uso no meu dia
 
